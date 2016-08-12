@@ -22,8 +22,8 @@ var config = {
     path: {
         html: './src/*.html',
         layout:'./src/layout/*.html',
-        mainjs: './src/js/main.js',
-        js:'./src/js/*.js',
+        mainjs: './src/js/main.jsx',
+        js:'./src/js/*.jsx',
         jslib:'./src/jslib/*.js',
         images: './src/images/**/*',
         mainsass:'./src/sass/main.scss',
