@@ -1,0 +1,5 @@
+//禁止响应式
+.am-container{
+  width: 980px !important;
+  max-width: none;
+}
